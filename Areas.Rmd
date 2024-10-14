@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r areas}
 # Area circulo
 radio <- 0.5
-area_c <- pi*radio*2
+area_c <- 3.14159*radio*2
 
 # Area cuadrado
 lado <- 3
