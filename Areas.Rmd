@@ -25,5 +25,11 @@ area_triangulo <- (base * altura) / 2
 
 # Area rectangulo
 area_rectangulo <- base * altura
+
+# Area trapecio
+b1 <- 1
+b2 <- 0.3
+h <- 100
+area_trapecio <- (b1+b2)*h/2
 ```
 
