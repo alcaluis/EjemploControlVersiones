@@ -17,5 +17,13 @@ area_c <- pi*radio*2
 # Area cuadrado
 lado <- 3
 area_cuadrado <- lado ^ 2
+
+# Area triangulo
+base <- 2
+altura <- 3.5
+area_triangulo <- (base * altura) / 2
+
+# Area rectangulo
+area_rectangulo <- base * altura
 ```
 
